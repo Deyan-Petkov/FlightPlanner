@@ -1,0 +1,43 @@
+1 London
+2 Berlin
+3 Stockholm
+11 Paris
+12 Rio de Janeiro
+13 Mexico City
+14 Belfast
+21 Reykjavik
+22 Tenerife
+23 Naples
+31 Warsaw
+32 Vienna
+33 Dubai
+111 Helsinki
+112 Edinburgh
+113 Milan
+121 New York
+122 Lima
+123 Buenos Aires
+131 Seattle
+132 Seoul
+133 Frankfurt
+211 Chicago
+212 Glasgow
+213 Rome
+221 Copenhagen
+222 Marrakech
+223 Lisbon
+231 Manchester
+232 Moscow
+233 Hamburg
+311 Tokyo
+312 Mumbai
+313 Cairo
+321 Los Angeles
+322 Bangkok
+323 Montreal
+331 Osaka
+332 Perth
+333 Cape Town
+141 Dublin
+324 Istanbul
+314 Miami
